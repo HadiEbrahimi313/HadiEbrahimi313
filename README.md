@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/HadiEbrahimi313/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/HadiEbrahimi313/HadiEbrahimi313/blob/main/images.jpeg" alt="Cover image" width="1024px"/>
+<img src="https://github.com/HadiEbrahimi313/HadiEbrahimi313/blob/main/background.jpg" alt="Cover image" width="1024px"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hadi+Ebrahimi!;" />
 </h1>
